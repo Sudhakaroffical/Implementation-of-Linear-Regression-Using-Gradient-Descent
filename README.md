@@ -27,7 +27,7 @@ Register No: 212222240107
 ```
 
 ```Python
-### Program:
+Program:
 import numpy as np
 import pandas as pd
 from sklearn.preprocessing import StandardScaler
