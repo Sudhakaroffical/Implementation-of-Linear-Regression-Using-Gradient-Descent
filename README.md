@@ -25,8 +25,9 @@ To write a program to predict the profit of a city using the linear regression m
 Developed By: SUDHAKAR K
 Register No: 212222240107
 ```
-### Program:
+
 ```Python
+### Program:
 import numpy as np
 import pandas as pd
 from sklearn.preprocessing import StandardScaler
